@@ -8,7 +8,7 @@ pipeline {
         TARGET_4DAY = "CREATE: SUN"
         TARGET_5DAY = "CREATE: FISH, REPTILES AND BIRDS"
         TARGET_6DAY = "BEAST, INSECTS, MANS"
-        TARGET_PROJECT = "HELLO WORLD!!!!!!!!!!!!!!!!!!!"
+        TARGET_PROJECT = "HELLO WORLD!!"
     }
 
     stages {
@@ -16,7 +16,7 @@ pipeline {
             steps {
                 echo "Start 1 Day"
                 echo "Working"
-                echo "WWWWWWWWWork is done. ${TARGET_1DAY}"
+                echo "QQQQQQQQQWork is done. ${TARGET_1DAY}"
             }
         }
         stage('2-DAY') {
