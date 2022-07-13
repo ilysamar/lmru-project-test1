@@ -14,9 +14,9 @@ pipeline {
     stages {
         stage('1-DAY') {
             steps {
-                echo "Start 1 Day"
+                echo "Start 10 Day"
                 echo "Working"
-                echo "BOM1_Work is done. ${TARGET_1DAY}"
+                echo "Work is done. ${TARGET_1DAY}"
             }
         }
         stage('2-DAY') {
