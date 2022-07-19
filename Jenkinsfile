@@ -8,7 +8,8 @@ pipeline {
         TARGET_4DAY = "CREATE: SUN"
         TARGET_5DAY = "CREATE: FISH, REPTILES AND BIRDS"
         TARGET_6DAY = "BEAST, INSECTS, MANS"
-        TARGET_PROJECT = "HELLO WORLD1341!!"
+        TARGET_PROJECT = "HELLO WORLD!"
+
     }
 
     stages {
